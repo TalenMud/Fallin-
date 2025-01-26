@@ -33,3 +33,5 @@ Get out of the way or submit to the bombs falling from above, collect gems and c
 ![Twigbert the stickman](Stickman.png)
 
 Rebecca, Taboa and Twigbert (Left to Right)
+
+access the game download as an exe here: https://talenmud.itch.io/fallin
